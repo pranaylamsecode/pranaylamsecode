@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranaylamse
+- 👋 Hi, I’m @pranaylamsecode
 - 👀 I’m interested in ...fullstack development
 
 
